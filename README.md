@@ -3,6 +3,9 @@
 As a backend developer, I have experience in technologies like Python, PL/SQL, and PostgreSQL. 
 Through my work with data visualization, SQLAlchemy, and Flask, I have demonstrated the ability to present data in meaningful ways and possess skills in database systems and API integration.
 
+
+You don't have to be afraid, you can walk around as you want :)
+
 <!--
 **yigitemregurel/yigitemregurel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
